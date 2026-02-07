@@ -1,6 +1,6 @@
 # Ivan Magky
 
-Hi! I’m primarily a Frontend and Desktop Engineer, but I also work on personal projects and share something cool in open source, so feel free to check them out — maybe you’ll find something useful!
+Hi! I’m primarily a Frontend and Desktop Engineer, but I sometimes work on personal projects and share something cool in open source. So feel free to check my public repos — maybe you’ll find something useful!
 
 ---
 
